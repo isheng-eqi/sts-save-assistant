@@ -1,0 +1,5 @@
+# 本机配置与运行产物，不要提交
+settings.txt
+sts_save_gui.log
+save_history/
+*.log

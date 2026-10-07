@@ -1,0 +1,5 @@
+# 统一换行符：bat 必须 CRLF（且不能带 BOM），ps1/md 用 CRLF/LF 都行
+* text=auto
+*.ps1 text eol=crlf
+*.bat -text
+*.md text eol=lf
